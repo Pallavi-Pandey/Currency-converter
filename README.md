@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter Tool
 
 A simple, real-time currency conversion tool built with static web technologies.
 
